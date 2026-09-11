@@ -243,4 +243,4 @@ This repository serves as the official landing page for Mandragora: Whispers of 
 **Get the most recent version of Mandragora: Whispers of the Witch Tree today!**
 
 ---
-**Last updated:** 2026-09-11 08:38:38 UTC
+**Last updated:** 2026-09-11 13:18:05 UTC
